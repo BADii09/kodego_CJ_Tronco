@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="345b67c2-68c9-40fe-958f-e6e39bd18483" name="Changes" comment="added exercise 1 package &#10;added Main.kt in exercise_1">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/IfSamples.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/UrinaryOperation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercise_1/Logical Operators.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercise_1/Mathematical Equation.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="345b67c2-68c9-40fe-958f-e6e39bd18483" name="Changes" comment="added exercise 1 package &#10;added Main.kt in exercise_1&#10;added activities package&#10;added activity01_a.kt&#10;added activity01_b.kt&#10;added activity01_c.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/IfSamples2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Loops.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/activities/Exercise1.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercise_1/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercise_1/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/activities/activity01_a.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/activities/activity01_a.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/activities/activity01_b.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/activities/activity01_b.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,28 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.IfSamplesKt">
+  <component name="RunManager" selected="Kotlin.Activity01_bKt">
+    <configuration name="Activity01_aKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Activity01_aKt" />
+      <module name="KodeGoExerciseTronco.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Activity01_bKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Activity01_bKt" />
+      <module name="KodeGoExerciseTronco.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IfSamples2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IfSamples2Kt" />
+      <module name="KodeGoExerciseTronco.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IfSamplesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IfSamplesKt" />
       <module name="KodeGoExerciseTronco.main" />
@@ -59,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="If_sampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="If_sampleKt" />
+    <configuration name="LoopsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopsKt" />
       <module name="KodeGoExerciseTronco.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,8 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Activity01_bKt" />
+        <item itemvalue="Kotlin.LoopsKt" />
+        <item itemvalue="Kotlin.IfSamples2Kt" />
+        <item itemvalue="Kotlin.Activity01_aKt" />
         <item itemvalue="Kotlin.IfSamplesKt" />
-        <item itemvalue="Kotlin.If_sampleKt" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665059844546</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added exercise 1 package &#10;added Main.kt in exercise_1&#10;added activities package&#10;added activity01_a.kt&#10;added activity01_b.kt&#10;added activity01_c.kt">
+      <created>1665408692821</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665408692822</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +150,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="added exercise 1 package &#10;added Main.kt in exercise_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="added exercise 1 package &#10;added Main.kt in exercise_1" />
+    <MESSAGE value="added exercise 1 package &#10;added Main.kt in exercise_1&#10;added activities package&#10;added activity01_a.kt&#10;added activity01_b.kt&#10;added activity01_c.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="added exercise 1 package &#10;added Main.kt in exercise_1&#10;added activities package&#10;added activity01_a.kt&#10;added activity01_b.kt&#10;added activity01_c.kt" />
   </component>
 </project>
