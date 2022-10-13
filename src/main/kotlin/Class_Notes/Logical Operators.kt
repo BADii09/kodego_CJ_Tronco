@@ -1,4 +1,4 @@
-package exercise_1
+package Class_Notes
 
 class `Logical Operators` {
 }

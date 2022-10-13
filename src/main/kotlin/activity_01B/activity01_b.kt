@@ -42,41 +42,7 @@ fun main() {
     var Author5: String = "Eiichiro Oda"
     var isEducational5: Boolean? = false
 
-    println("Book No. 1:" +
-            " $Book1 " +
-            " $quantity1 " +
-            " $Color1 " +
-            " $size1 " +
-            " $Author1 " +
-            " Educational Book: $isEducational1")
-    println("Book No. 2:" +
-            " $Book2 " +
-            " $quantity2 " +
-            " $Color2 " +
-            " $size2 " +
-            " $Author2 " +
-            " Educational Book: $isEducational2")
-    println("Book No. 3:" +
-            " $Book3 " +
-            " $quantity3 " +
-            " $Color3 " +
-            " $size3 " +
-            " $Author3 " +
-            " Educational Book: $isEducational3")
-    println("Book No. 4:" +
-            " $Book4 " +
-            " $quantity4 " +
-            " $Color4 " +
-            " $size4 " +
-            " $Author4 " +
-            " Educational Book: $isEducational4")
-    println("Book No. 1:" +
-            " $Book5 " +
-            " $quantity5 " +
-            " $Color5 " +
-            " $size5 " +
-            " $Author5 " +
-            " Educational Book: $isEducational5")
+
 
 
 
